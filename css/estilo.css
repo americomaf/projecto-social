@@ -39,3 +39,11 @@ section#redes-sociais{
     width: 200px;
     height: 100px;
 }
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+}
